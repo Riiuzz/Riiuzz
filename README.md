@@ -22,7 +22,7 @@
 - 🎯 **Objetivo:** Desarrollarme como **Full Stack Developer**.
 - 🧱 **Enfoque Técnico:** Me interesa especialmente aplicar **Clean Architecture** y buenas prácticas de desarrollo (SOLID).
 - 🤝 **Soft Skills:** Disfruto trabajar en equipo, comunicar ideas con claridad y aprender de otras personas.
-- 🎮 **Hobbies:** En mi tiempo libre me encantan los videojuegos, salir con amigos y descubrir buena comida.
+- 🎮 **Hobbies:** En mi tiempo libre me encantan los videojuegos, salir con mi pareja y descubrir buena comida.
 - 🌱 **Actualmente:** Estoy profundizando en **React**, servicios en la **Nube (Cloud)** y patrones de arquitectura.
 
 ---
